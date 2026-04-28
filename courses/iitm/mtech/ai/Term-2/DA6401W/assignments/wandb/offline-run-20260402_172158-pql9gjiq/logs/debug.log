@@ -1,0 +1,6 @@
+2026-04-02 17:21:58,355 INFO    MainThread:2868 [wandb_init.py:setup_run_log_directory():717] Logging user logs to d:\Documents\Github\ml\courses\iitm\mtech\ai\Term2\DA6401W\assignments\wandb\offline-run-20260402_172158-pql9gjiq\logs\debug.log
+2026-04-02 17:21:58,356 INFO    MainThread:2868 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to d:\Documents\Github\ml\courses\iitm\mtech\ai\Term2\DA6401W\assignments\wandb\offline-run-20260402_172158-pql9gjiq\logs\debug-internal.log
+2026-04-02 17:21:58,356 INFO    MainThread:2868 [wandb_init.py:init():844] calling init triggers
+2026-04-02 17:21:58,356 INFO    MainThread:2868 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-04-02 17:21:58,357 INFO    MainThread:2868 [wandb_init.py:init():892] starting backend
